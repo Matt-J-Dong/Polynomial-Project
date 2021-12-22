@@ -1,4 +1,4 @@
-
+//Application that runs the polynomial program and provides a interface to utilize the results.
 
 import java.io.File;
 import java.io.IOException;
